@@ -1,7 +1,7 @@
 # Heart Disease Prediction Using Machine Learning Techniques
 
 # Objective
-This project aims to apply machine learning algorithms for early-stage heart disease prediction using patient health data.
+This project aims to apply machine learning algorithms to predict the risk of heart disease using patient health data.
 
 # Project Workflow
  Dataset: Utilized a public dataset of patient health data, which was preprocessed for model training and testing.
@@ -13,4 +13,4 @@ This project aims to apply machine learning algorithms for early-stage heart dis
  Algorithms: The following algorithms were used: Gaussian Naive Bayes, Logistic Regression, Gradient Boosting, AdaBoost, XGBoost, K-Nearest Neighbors (KNN), Decision Tree, 
  and Random Forest.
  
- Results: Random Forest achieved the highest accuracy of 85%, making it the most effective model for predicting heart disease.
+ Results: Random Forest achieved the highest accuracy of 90%, making it the most effective model for predicting heart disease.
