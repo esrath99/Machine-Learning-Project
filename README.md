@@ -3,6 +3,9 @@
 # Objective
 This project aims to apply machine learning algorithms to predict the risk of heart disease using patient health data.
 
+# Motivation
+Heart disease remains one of the leading causes of death globally, and effective risk prediction is essential for improving patient outcomes. Traditional diagnostic methods can be costly and resource-intensive, limiting access to timely care. This project aims to utilize machine learning algorithms to analyze patient health data and identify individuals at a higher risk of developing heart disease. By providing accurate risk assessments, this approach can support healthcare professionals in making more informed, data-driven decisions, ultimately enhancing the quality of care and reducing mortality rates.
+
 # Project Workflow
  **Dataset**: Utilized a public dataset of patient health data, which was preprocessed for model training and testing.
  
